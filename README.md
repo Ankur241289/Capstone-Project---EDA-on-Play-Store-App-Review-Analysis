@@ -63,6 +63,6 @@ Science Program" of AlmaBetter as Capstone Project-1 of Module-1 (Python for Dat
 
 12. In the final step of Data Visualization and Story telling we have plotted around 17 different charts in order to get valuable insights from the data and have tried to describe them in simple words.
 
-13. Finally we tried to answer all problem statements with the help of newly found insights and provided provided recommendations in Solution to Business Objective section of this notebook.
+13. Finally we tried to answer all problem statements with the help of newly found insights and given our recommendations in **Solution to Business Objective** section of this notebook.
 
 ## Please see Google Colab notebook (File with the extension ".ipynb" in the repository to check out the whole project 
