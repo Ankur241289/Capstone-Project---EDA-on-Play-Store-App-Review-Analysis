@@ -65,4 +65,9 @@ Science Program" of AlmaBetter as Capstone Project-1 of Module-1 (Python for Dat
 
 13. Finally we tried to answer all problem statements with the help of newly found insights and given our recommendations in **Solution to Business Objective** section of this notebook.
 
-## Please see Google Colab notebook (File with the extension ".ipynb" in the repository to check out the whole project 
+### Please see Google Colab notebook (File with the extension ".ipynb" in the repository to check out the whole project 
+
+### Thanks and Special Mentions:
+1. At first I would like to show my sincere gratitude to the awesome mentors and moderators of AlmaBetter including Hardik Gupta, Rochit Jain, Puroshotam Singh, Smruti Ranjan Pradhan, Shafil Ahmed and many more. 
+2. A very big 👍to amazing educators on youtube channels like Krish Naik (https://www.youtube.com/@krishnaik06) and Code With Harry (https://www.youtube.com/@CodeWithHarry/featured).
+3. And last but not the least 🙏 to the amazing community at https://stackoverflow.com/
