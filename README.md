@@ -1,4 +1,4 @@
-# Capstone-Project---EDA-on-Play-Store-App-Review-Analysis 
+# Capstone Project - EDA on Play Store App Review Analysis 
 ![google_play_logo](https://user-images.githubusercontent.com/110918770/221432304-001f9693-d955-48b6-b3b5-52f2dd483ba6.png)
 
 In this project we are trying to perform Exploratory Data Analysis on Playstore App Reviews (Previously known as Android Market) as a requirement of "Full Stack Data 
